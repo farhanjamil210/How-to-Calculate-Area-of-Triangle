@@ -1,1 +1,1 @@
-# How-to-Calculate-Area-of-Triangle
+# Write a Python Program to Calculate Area-of-Triangle
